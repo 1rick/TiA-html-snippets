@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupInfo</key>
+	<dict>
+		<key>expandAfterMode</key>
+		<integer>0</integer>
+		<key>groupName</key>
+		<string>TiA html</string>
+	</dict>
+	<key>snippetsTE2</key>
+	<array>
+		<dict>
+			<key>abbreviation</key>
+			<string>,,xc</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-07-07T10:43:57Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>china stock symbols</string>
+			<key>lastUsed</key>
+			<date>2012-07-07T10:52:43Z</date>
+			<key>modificationDate</key>
+			<date>2012-07-07T11:01:43Z</date>
+			<key>plainText</key>
+			<string>%fillpopup:name=China stock tickers:Alibaba	(HKG 1688):AutoNavi (NASDAQ AMAP) :default=Baidu (NASDAQ BIDU):China Mobile (NYSE CHL):China Unicom (HKG 0762):DangDang (NYSE DANG):Giant Interative (NYSE GA):Haier (HKG 1169):Jiayuan (NASDAQ DATE):Lenovo (HKG 0992):Netease (NASDAQ NTES):Perfect World (NASDAQ PWRD):Qihoo 360 (NYSE QIHU):Renren (NYSE RENN):Shanda (NASDAQ SNDA):Shanda Games (NASDAQ GAME):Sina (NASDAQ SINA):The9 (NASDAQ NCTY):Tencent (HKG 0700):Tudou (NASDAQ TUDO):Youku (NYSE YOKU)%</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>4CF5589C-FCF0-40C5-908C-BE0065AA2D68</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,,border</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-05-31T10:33:47Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>border</string>
+			<key>lastUsed</key>
+			<date>2012-07-06T12:31:26Z</date>
+			<key>modificationDate</key>
+			<date>2012-05-31T10:34:02Z</date>
+			<key>plainText</key>
+			<string>style="border: 1px solid grey;" </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>26</integer>
+			<key>uuidString</key>
+			<string>A476D4BA-F43B-49E2-8354-92B495960899</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,,ll</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-06-13T03:55:07Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>liveblog</string>
+			<key>lastUsed</key>
+			<date>2012-06-16T00:53:28Z</date>
+			<key>modificationDate</key>
+			<date>2012-06-13T03:56:07Z</date>
+			<key>plainText</key>
+			<string>&lt;a name="%1I:%M"&gt;&lt;/a&gt;&lt;a href="#%1I:%M"&gt;#%1I:%M&lt;/a&gt;:  </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>CE833281-A599-4E2B-8877-D6C282994BF9</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,,abbr</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-04-18T13:50:55Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>abbr</string>
+			<key>lastUsed</key>
+			<date>2012-07-04T00:06:30Z</date>
+			<key>modificationDate</key>
+			<date>2012-05-31T10:33:02Z</date>
+			<key>plainText</key>
+			<string>&lt;abbr style="cursor: help; border-bottom: 1px dashed;" title="%fill:hovertext%"&gt;%fill:text%&lt;/abbr&gt; </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>34</integer>
+			<key>uuidString</key>
+			<string>EF6D2F39-E198-4D2F-8126-6490CDD699AF</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,,htag</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-07-07T10:36:19Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Tag link</string>
+			<key>modificationDate</key>
+			<date>2012-07-07T10:40:49Z</date>
+			<key>plainText</key>
+			<string>&lt;a href="http://www.techinasia.com/tag/%fill:tagword%/" title="articles tagged %fill:tagword%"&gt;%fill:tagword%&lt;/a&gt; %|</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>5D99D824-6D4E-4C94-B7AF-6C21B9DD2F27</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,,hsel</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-07-07T10:34:20Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Select, Copy to clip, Tag link</string>
+			<key>lastUsed</key>
+			<date>2012-07-07T10:40:11Z</date>
+			<key>modificationDate</key>
+			<date>2012-07-07T10:40:32Z</date>
+			<key>plainText</key>
+			<string>&lt;a href="http://www.techinasia.com/tag/%clipboard/" title="articles tagged %clipboard"&gt;%clipboard&lt;/a&gt; %|</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>9FDBCB49-7E29-473B-B530-92C47CE47EB1</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,,hclip</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-07-07T07:43:07Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Clipboard link</string>
+			<key>lastUsed</key>
+			<date>2012-07-07T10:33:19Z</date>
+			<key>modificationDate</key>
+			<date>2012-07-07T10:32:51Z</date>
+			<key>plainText</key>
+			<string> &lt;a href="%clipboard"&gt;%fill:title%&lt;/a&gt; %|</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>8C1D9A97-2461-443D-ADFC-B8F08283F5C2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
